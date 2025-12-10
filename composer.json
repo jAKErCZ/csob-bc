@@ -1,5 +1,5 @@
 {
-  "name": "asisteam/csob-bc",
+  "name": "jakercz/csob-bc",
   "description": "CSOB Business Connector - for download/upload files automation",
   "keywords": ["CSOB", "Business Connector", "API"],
   "type": "library",
